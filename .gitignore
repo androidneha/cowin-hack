@@ -1,0 +1,11 @@
+/node_modules/
+/storage/service-account.json
+/storage/smarty/cache/*
+/storage/smarty/compiled/*
+/vendor/
+/constants.php
+/.env*
+!/.env.example
+!.gitignore
+/.idea/
+/.vscode/
